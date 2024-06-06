@@ -17,5 +17,6 @@
 	- <https://www.igdb.com/games/fortressone>
 	- <https://lutris.net/games/fortressone/>
 4. Copy the `id1/` directory with game files, and extract
-FortressOne/fortress into `fteqw/engine/release`
+`FortressOne/fortress` into `fteqw/engine/release`
 5. Start playing with `./fteqw-gl -game fortress`
+6. Join the [Discord](https://discord.fortressone.org)!

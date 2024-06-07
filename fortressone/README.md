@@ -1,5 +1,13 @@
 # FortressOne
 
+[![TFBanner](assets/gifs/tf_banner.gif)](https://fortressone.org)
+<br>
+[![TFNow](assets/gifs/tfnow.gif)](https://github.com/FortressOne)
+[![TFNow2](assets/gifs/tfnow2.gif)](https://github.com/FortressOne)
+[![TFNow2](assets/gifs/tfnow3.gif)](https://github.com/FortressOne)
+[![TFNow2](assets/gifs/tfgetit.gif)](https://github.com/FortressOne)
+[![QWNow](assets/gifs/qwnow.gif)](https://github.com/FortressOne)
+
 ## Getting Started
 
 1. Purchase a copy of Quake

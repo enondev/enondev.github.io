@@ -28,3 +28,5 @@
 `FortressOne/fortress` into `fteqw/engine/release`
 5. Start playing with `./fteqw-gl -game fortress`
 6. Join the [Discord](https://discord.fortressone.org)!
+
+## [Wiki](wiki)
